@@ -17,23 +17,25 @@ body, html {
   display: table;
   width: 100%;
   height: 100vh;
-  background: #fc00ff;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+
+
+
 }
 .sns-icons{
-	padding-top: 20px;
-	padding-left: 30px;
+  padding-top: 20px;
+  padding-left: 30px;
 }
 .menu{
   float: right;
-	padding-right: 42px;
-	padding-top: 28px;
+  padding-right: 42px;
+  padding-top: 28px;
 }
 .menu a{
   color: white;
-	font-size: 15px;
-	font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
   text-decoration:none;
 }
 .menu a:hover{
@@ -41,26 +43,26 @@ body, html {
     padding-bottom: 5px;
 }
 #logo{
-	padding-left: 37%;
-	padding-top: 25px;
+  padding-left: 37%;
+  padding-top: 25px;
 }
 /*ABOUT ME - TITLE*/
 h1{
-	text-align: left;
-	padding-top: 8%;
-	font-size: 78px;
-	font-family: 'Lato', sans-serif;
-	letter-spacing: 4px;
+  text-align: left;
+  padding-top: 8%;
+  font-size: 78px;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 4px;
   margin-left: 9%;
 
 }
 h3{
-	text-align: left;
-	font-family: 'Lato', sans-serif;
-	letter-spacing: 2px;
-	font-size: 28px;
-	padding-top: 0px;
-	margin-top: 0px;
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 28px;
+  padding-top: 0px;
+  margin-top: 0px;
   margin-left: 10%;
 }
 /*ABOUT ME - IMAGES & CONTENTS*/
@@ -71,7 +73,7 @@ h3{
   margin-left: 10%;
   margin-right: 15%;
   margin-top: 10px;
-  margin-bottom: 70px;
+  margin-bottom: 0px;
   display:inline-block;
   vertical-align:top;
 }
