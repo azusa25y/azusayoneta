@@ -1,0 +1,210 @@
+body, html {
+  font-family: 'Lato', sans-serif;
+  text-decoration:none;
+  color: white;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  background: #dedede;
+  letter-spacing: 1px;
+  font-family: Archer,Georgia,serif;
+  position: relative;
+}
+/* TOP MENUS & SNS ICONS */
+.home-header {
+  display: table;
+  width: 100%;
+  height: 100vh;
+background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+
+}
+.sns-icons{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.menu{
+  float: right;
+	padding-right: 42px;
+	padding-top: 28px;
+}
+.menu a{
+  color: white;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+  text-decoration:none;
+}
+.menu a:hover{
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+}
+#logo{
+	padding-left: 37%;
+	padding-top: 25px;
+}
+/*ABOUT ME - TITLE*/
+h1{
+	text-align: left;
+	padding-top: 8%;
+	font-size: 78px;
+	font-family: 'Lato', sans-serif;
+	letter-spacing: 4px;
+  margin-left: 9%;
+
+}
+h3{
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	letter-spacing: 2px;
+	font-size: 28px;
+	padding-top: 0px;
+	margin-top: 0px;
+  margin-left: 10%;
+}
+
+/* Responsive */
+@media screen and (min-width:600px) and (max-width:959px) {
+  .home-header {
+    display: table;
+    width: 100%;
+    height: 23vh;
+}
+h1{
+  text-align: center;
+  padding-top: 12%;
+  font-size: 58px;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 4px;
+}
+h3{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 16px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+#logo{
+  margin-left: 34%;
+  margin-top: 25px;
+  padding-left: 0;
+}
+.sns-icons{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+}
+@media screen and (max-width:599px) { 
+    .home-header {
+    display: table;
+    width: 100%;
+    height: 23vh;
+}
+h1{
+  text-align: center;
+  padding-top: 12%;
+  font-size: 38px;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 4px;
+}
+h3{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 14px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+#logo{
+  margin-left: 17%;
+  margin-top: 20px;
+  padding-left: 0;
+}
+.sns-icons{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+}
+
+
+/*ABOUT ME - IMAGES & CONTENTS*/
+#intro{
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 15px;
+  margin-left: 10%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  display:inline-block;
+  vertical-align:top;
+}
+#about{
+  padding-bottom: 150px;
+}
+#about img{
+  height: 350px;
+  width: 350px;
+  margin-top: 5%;
+  margin-left: 18%;
+}
+#photo{
+  height: 230px;
+  margin-right: 50px;
+
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;  
+}
+.clearfix a{
+  color: white;
+  border-bottom: 1px solid white;
+}
+/* image */
+#aquarius{
+height:88px;
+}
+/*画像と文書を並べて表示時する*/
+  .inner {     
+  float: left ;　 /*左側に配置する*/
+  }
+  .inner p{
+  float:right; 　 /*右側に配置する*/
+   }
+
+   .container{
+  text-align: center;
+}
+/* Footer */
+footer{
+  display: table;
+  width: 100%;
+  height: 30vh;
+  background-color: orange;
+}
+footer p{
+  text-align: center;
+  margin-top: 3%;
+  font-family: 'Lato', sans-serif;
+}
+#footer-sns{
+  margin-left: 43%;
+}
+#up{
+  height: 50px;
+  margin-left: 48%;
+}
+/*#astronaut{
+  margin-left:90%;
+  margin-top: 18%;
+  transform: rotate(-70deg)
+
+}*/
