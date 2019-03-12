@@ -43,6 +43,7 @@ background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
 #logo{
 	padding-left: 37%;
 	padding-top: 25px;
+	height:88px;
 }
 /*ABOUT ME - TITLE*/
 h1{
@@ -90,6 +91,7 @@ h3{
   margin-left: 34%;
   margin-top: 25px;
   padding-left: 0;
+  height: 85px;
 }
 .sns-icons{
   padding-top: 20px;
@@ -124,6 +126,7 @@ h3{
   margin-left: 17%;
   margin-top: 20px;
   padding-left: 0;
+  height: 65px;
 }
 .sns-icons{
   padding-top: 20px;
