@@ -94,6 +94,9 @@ h3{
 #astronaut{
   height:70px;
 }
+#footer-sns{
+  margin-left: 32%;
+}
 }
 @media screen and (max-width:599px) { 
     .home-header {
@@ -127,6 +130,9 @@ h3{
 }
 #astronaut{
   height:50px;
+}
+#footer-sns{
+  margin-left: 27%;
 }
 }
 
