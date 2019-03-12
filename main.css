@@ -42,6 +42,7 @@ body, html {
 #logo{
 	padding-left: 37%;
 	padding-top: 25px;
+	height:88px;
 }
 
 h1{
@@ -86,6 +87,7 @@ h3{
   margin-left: 34%;
   margin-top: 25px;
   padding-left: 0;
+  height: 85px;
 }
 .sns-icons{
   padding-top: 20px;
@@ -123,6 +125,7 @@ h3{
   margin-left: 17%;
   margin-top: 20px;
   padding-left: 0;
+  height: 65px;
 }
 .sns-icons{
   padding-top: 20px;
