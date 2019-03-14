@@ -152,12 +152,9 @@ margin: auto;
 text-align: center;
 width: 250px;
 }
-#astronaut{
-  margin-left:90%;
-  margin-top: 18%;
-  transform: rotate(-220deg)
-
-}
+#up{
+  height: 50px;
+} 
 #about{
   padding-bottom: 150px;
 }
