@@ -164,15 +164,16 @@ footer p{
   margin-left:7%;
   font-family: 'Lato', sans-serif;
 }
-#up{
+/* #up{
   height: 50px;
   margin-left: 52%;
-}
+} */
 /* #footer-sns{
   margin-left: 47%;
 } */
 .box{
 margin: auto;
+text-align: center;
 }
 #astronaut{
   margin-left:90%;
