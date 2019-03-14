@@ -71,7 +71,7 @@ h3{
   .home-header {
     display: table;
     width: 100%;
-    height: 120vh;
+    height: 100vh;
 }
 h1{
   text-align: center;
@@ -94,6 +94,9 @@ h3{
   padding-left: 0;
   height: 85px;
 }
+#aquarius{
+height:65px;
+}
 #intro{
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
@@ -114,7 +117,7 @@ h3{
   .home-header {
   display: table;
   width: 100%;
-  height: 120vh;
+  height: 100vh;
 }
 h1{
   text-align: center;
@@ -138,6 +141,9 @@ h3{
   margin-top: -5px;
   padding-left: 0;
   height: 85px;
+}
+#aquarius{
+  height:50px;
 }
 #intro{
   font-family: 'Lato', sans-serif;
@@ -194,7 +200,7 @@ h3{
 }
 /* image */
 #aquarius{
-height:88px;
+height:85px;
 }
 /*画像と文書を並べて表示時する*/
   .inner {     
