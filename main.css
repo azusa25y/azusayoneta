@@ -149,6 +149,7 @@ footer p{
 } 
 .box{
   margin: auto;
+  padding-top: 15px;
   text-align: center;
   width: 250px;
 }
