@@ -47,7 +47,7 @@ body, html {
 
 h1{
   text-align: center;
-  padding-top: 8%;
+  padding-top: 9%;
   font-size: 50px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 4px;
@@ -70,7 +70,7 @@ h3{
 }
 h1{
   text-align: center;
-  padding-top: 14%;
+  padding-top: 15%;
   font-size: 35px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 4px;
@@ -98,8 +98,8 @@ h3{
 }
 h1{
   text-align: center;
-  padding-top: 14%;
-  font-size: 25px;
+  padding-top: 15%;
+  font-size: 22px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 4px;
 }
@@ -148,9 +148,9 @@ footer p{
   text-align:center;
 } 
 .box{
-margin: auto;
-text-align: center;
-width: 250px;
+  margin: auto;
+  text-align: center;
+  width: 250px;
 }
 #up{
   height: 50px;
