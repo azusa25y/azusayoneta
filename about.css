@@ -227,9 +227,10 @@ footer p{
   text-align:center;
 } 
 .box{
-margin: auto;
-text-align: center;
-width: 250px;
+  margin: auto;
+  padding-top: 15px;
+  text-align: center;
+  width: 250px;
 }
 #up{
   height: 50px;
