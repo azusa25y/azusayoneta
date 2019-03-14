@@ -154,6 +154,7 @@ width: 250px;
 }
 #up{
   height: 50px;
+  padding-left: 8px;
 } 
 #about{
   padding-bottom: 150px;
