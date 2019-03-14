@@ -168,9 +168,9 @@ footer p{
   height: 50px;
   margin-left: 52%;
 } */
-/* #footer-sns{
-  margin-left: 47%;
-} */
+#footer-sns{
+  text-align:center;
+} 
 .box{
 margin: auto;
 text-align: center;
