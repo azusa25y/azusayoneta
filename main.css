@@ -26,8 +26,8 @@ body, html {
 }
 .menu{
   float: right;
-	padding-right: 42px;
-	padding-top: 32px;
+  padding-right: 30px;
+  padding-top: 33px;
 }
 .menu a{
   color: black;
@@ -66,7 +66,7 @@ h3{
   .home-header {
     display: table;
     width: 100%;
-    height: 60vh;
+    height: 70vh;
 }
 h1{
   text-align: center;
@@ -85,7 +85,7 @@ h3{
 }
 #logo{
   margin-left: 3%;
-  margin-top: 0px;
+  margin-top: -5px;
   padding-left: 0;
   height: 85px;
 }	
@@ -94,7 +94,7 @@ h3{
     .home-header {
     display: table;
     width: 100%;
-    height: 35vh;
+    height: 70vh;
 }
 h1{
   text-align: center;
@@ -113,7 +113,7 @@ h3{
 }
 #logo{
   margin-left: 3%;
-  margin-top: 0px;
+  margin-top: -5px;
   padding-left: 0;
   height: 85px;
 }
