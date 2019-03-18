@@ -173,6 +173,7 @@ footer p{
 .left > a > img{
    width: 100%;
    height: 100%;  
+   padding:10px;
 }
 #projects{
   margin-left: 8%;
