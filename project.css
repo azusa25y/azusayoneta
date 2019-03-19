@@ -1,0 +1,223 @@
+.home-header {
+    display: table;
+    width: 100%;
+    height: 25vh;
+    background-color: white;
+/*background-image: linear-gradient(to right top, #5dbcd2, #00cfcf, #00deaf, #4fe875, #a8eb12);
+*/}
+.sns-icons{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+body, html {
+    font-family: 'Lato', sans-serif;
+    text-decoration:none;
+    color: black;
+
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    background-color: white;
+    letter-spacing: 1px;
+    font-family: Archer,Georgia,serif;
+    position: relative;
+}
+.menu{
+  float: right;
+	padding-right: 42px;
+	padding-top: 28px;
+}
+.menu a{
+  color: black;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+  text-decoration:none;
+}
+.menu a:hover{
+  border-bottom: 2px solid fuchsia;
+  padding-bottom: 5px;
+}
+#logo{
+	padding-left: 37%;
+	padding-top: 25px;
+  height:88px;
+}
+
+h1{
+	text-align: center;
+	padding-top: 5%;
+	font-size: 60px;
+	font-family: 'Lato', sans-serif;
+	letter-spacing: 4px;
+  color: black;
+}
+h3{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 18px;
+  padding-top: 0px;
+  margin-top: 0px;
+  color: black;
+}
+@media screen and (min-width:600px) and (max-width:959px) {
+  .home-header {
+    display: table;
+    width: 100%;
+    height: 18vh;
+}
+h1{
+  text-align: center;
+  padding-top: 12%;
+  font-size: 58px;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 4px;
+}
+h3{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 16px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+#logo{
+  margin-left: 34%;
+  margin-top: 25px;
+  padding-left: 0;
+}
+.sns-icons{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+#astronaut{
+  height:70px;
+}
+}
+@media screen and (max-width:599px) { 
+    .home-header {
+    display: table;
+    width: 100%;
+    height: 18vh;
+}
+h1{
+  text-align: center;
+  padding-top: 12%;
+  font-size: 38px;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 4px;
+}
+h3{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 14px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+#logo{
+  margin-left: 17%;
+  margin-top: 20px;
+  padding-left: 0;
+}
+.sns-icons{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+#astronaut{
+  height:50px;
+}
+}
+
+.container{
+	text-align: center;
+    margin: 0px;
+    display: table;
+    width: 100%;
+    height: 300vh;
+    position: relative;
+
+}
+footer{
+    display: table;
+    width: 110%;
+    height: 30vh;
+    background-color: orange;
+    margin-left: -10%;
+}
+footer p{
+  text-align: center;
+  padding-left: 10px;
+  margin-top: 3%;
+  margin-left:7%;
+  font-family: 'Lato', sans-serif;
+}
+#up{
+  height: 50px;
+  margin-left: 52%;
+}
+#footer-sns{
+  margin-left: 47%;
+}
+#astronaut{
+  margin-left:90%;
+  margin-top: 18%;
+  transform: rotate(-220deg)
+
+}
+#about{
+  padding-bottom: 150px;
+}
+#about img{
+   height: 350px;
+   width: 350px;
+   margin-top: 5%;
+   margin-left: 20%;
+}
+.left{
+  position: relative;
+
+}
+.left > a > img{
+   width: 90%;
+   height: auto;
+   margin:auto;  
+}
+
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+.left:hover .overlay {
+  opacity: 0.95;
+}
+
+
+.box{
+  width:70%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  box-shadow: 2px 2px 5px gray;
+  border-radius: 5px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.wrap{
+  width:70%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
