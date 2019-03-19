@@ -95,12 +95,31 @@ h3{
   padding-top: 20px;
   padding-left: 10px;
 }
-#astronaut{
-  height:70px;
+.box{
+  width:85%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato300', sans-serif;
+  font-size: 14px;
+  box-shadow: 2px 2px 5px gray;
+  border-radius: 5px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.wrap{
+  width:85%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
 }
 }
 @media screen and (max-width:599px) { 
-    .home-header {
+.home-header {
     display: table;
     width: 100%;
     height: 18vh;
@@ -130,8 +149,27 @@ h3{
   padding-top: 20px;
   padding-left: 10px;
 }
-#astronaut{
-  height:50px;
+.box{
+  width:90%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato300', sans-serif;
+  font-size: 13px;
+  box-shadow: 2px 2px 5px gray;
+  border-radius: 5px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.wrap{
+  width:90%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
 }
 }
 
