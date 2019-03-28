@@ -64,6 +64,30 @@ h3{
   margin-top: 0px;
   color: black;
 }
+.box{
+  width:75%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato300', sans-serif;
+  font-size: 15px;
+  box-shadow: 2px 2px 5px gray;
+  border-radius: 5px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.wrap{
+  width:75%;
+  height:auto;
+  margin:auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color:black;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+
 @media screen and (min-width:600px) and (max-width:959px) {
   .home-header {
     display: table;
@@ -96,7 +120,7 @@ h3{
   padding-left: 10px;
 }
 .box{
-  width:95%;
+  width:98%;
   height:auto;
   margin:auto;
   font-family: 'Lato300', sans-serif;
@@ -108,7 +132,7 @@ h3{
   margin-bottom: 20px;
 }
 .wrap{
-  width:95%;
+  width:98%;
   height:auto;
   margin:auto;
   font-family: 'Lato', sans-serif;
@@ -242,25 +266,3 @@ footer p{
 }
 
 
-.box{
-  width:70%;
-  height:auto;
-  margin:auto;
-  font-family: 'Lato300', sans-serif;
-  font-size: 15px;
-  box-shadow: 2px 2px 5px gray;
-  border-radius: 5px;
-  color:black;
-  padding: 30px;
-  margin-bottom: 20px;
-}
-.wrap{
-  width:70%;
-  height:auto;
-  margin:auto;
-  font-family: 'Lato', sans-serif;
-  font-size: 15px;
-  color:black;
-  padding: 30px;
-  margin-bottom: 20px;
-}
