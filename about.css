@@ -47,14 +47,14 @@ body, html {
 
 /*ABOUT ME - TITLE*/
 h1{
-  text-align: left;
+  text-align: center;
   padding-top: 8%;
   font-size: 60px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 4px;
 }
 h3{
-  text-align: left;
+  text-align: center;
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
   font-size: 24px;
