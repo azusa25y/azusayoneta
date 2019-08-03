@@ -99,7 +99,7 @@ h3{
 h1{
   text-align: center;
   padding-top: 15%;
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 4px;
 }
@@ -223,23 +223,4 @@ footer p{
   transform: translate(-50%, -50%);
   text-align: center;
 }
-/* anime.js */
-.ml6 {
-  position: relative;
-  font-weight: 900;
-  font-size: 3.3em;
-}
 
-.ml6 .text-wrapper {
-  position: relative;
-  display: inline-block;
-  padding-top: 0.2em;
-  padding-right: 0.05em;
-  padding-bottom: 0.1em;
-  overflow: hidden;
-}
-
-.ml6 .letter {
-  display: inline-block;
-  line-height: 1em;
-}
