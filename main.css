@@ -44,6 +44,13 @@ body, html {
   padding-top: 25px;
   height:88px;
 }
+.myworks a{
+  color: white;
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+  padding: 8px 3px 8px 3px;
+  background-color: fuchsia;
+}
 
 h1{
   text-align: center;
@@ -61,6 +68,13 @@ h3{
   padding-top: 10px;
   margin-top: 0px;
   color: black;
+}
+h4{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  font-size: 15px;
+  color: fuchsia;
 }
 @media screen and (min-width:600px) and (max-width:959px) {
   .home-header {
