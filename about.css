@@ -44,6 +44,13 @@ body, html {
   border-bottom: 2px solid white;
   padding-bottom: 5px;
 }
+.about a{
+  color: fuchsia;
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+  border-bottom: 2px solid fuchsia;
+  padding-bottom: 5px;
+}
 #logo{
   padding-left: 3%;
   padding-top: 25px;
