@@ -44,12 +44,14 @@ body, html {
   padding-top: 25px;
   height:88px;
 }
+.myworks{
+  padding: 8px 3px 8px 3px;
+  background-color: fuchsia;
+}
 .myworks a{
   color: white;
   font-size: 15px;
   font-family: 'Lato', sans-serif;
-  padding: 8px 3px 8px 3px;
-  background-color: fuchsia;
 }
 
 h1{
