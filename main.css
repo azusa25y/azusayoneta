@@ -44,14 +44,13 @@ body, html {
   padding-top: 25px;
   height:88px;
 }
-.myworks{
-  padding: 12px 3px 8px 12px;
-  background-color: fuchsia;
-}
+
 .myworks a{
-  color: white;
+  color: fuchsia;
   font-size: 15px;
   font-family: 'Lato', sans-serif;
+  border-bottom: 2px solid fuchsia;
+  padding-bottom: 5px;
 }
 
 h1{
@@ -76,7 +75,8 @@ h4{
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
   font-size: 25px;
-  color: fuchsia;
+  color: black;
+  padding-bottom: 10px; 
 }
 @media screen and (min-width:600px) and (max-width:959px) {
   .home-header {
@@ -99,6 +99,12 @@ h3{
   padding-top: 5px;
   margin-top: 0px;
 }
+h4{
+  font-size: 20px;
+  color: black;
+  padding-bottom: 8px; 
+}
+
 #logo{
   margin-left: 3%;
   margin-top: -5px;
@@ -130,6 +136,12 @@ h3{
   padding-top: 5px;
   margin-top: 0px;
 }
+h4{
+  font-size: 17px;
+  color: black;
+  padding-bottom: 5px; 
+}
+
 #logo{
   margin-left: 3%;
   margin-top: -5px;
