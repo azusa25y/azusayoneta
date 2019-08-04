@@ -84,6 +84,19 @@ h4{
   padding-bottom: 10px; 
   font-weight: bold;
 }
+.text {
+  color: white;
+  font-size: 23px;
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-weight: bold;
+}
 @media screen and (min-width:600px) and (max-width:959px) {
   .home-header {
    display: table;
@@ -257,17 +270,5 @@ footer p{
   opacity: 0.95;
 }
 
-.text {
-  color: white;
-  font-size: 20px;
-  font-family: 'Raleway', sans-serif;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
-  font-weight: bold;
-}
+
 
