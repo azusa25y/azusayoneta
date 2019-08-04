@@ -17,7 +17,7 @@ body, html {
   background-color: white;
   width: 100%;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 .home-header {
   display: table;
@@ -82,10 +82,14 @@ h3{
 
 /* Responsive */
 @media screen and (min-width:600px) and (max-width:959px) {
-  .home-header {
+.home-header {
     display: table;
     width: 100%;
     height: 100vh;
+}
+.home-nav{
+  padding-top: 5px;
+  padding-bottom: 0px;
 }
 h1{
   text-align: left;
@@ -128,10 +132,14 @@ height:65px;
 }
 
 @media screen and (max-width:599px) { 
-  .home-header {
+.home-header {
   display: table;
   width: 100%;
   height: 100vh;
+}
+.home-nav{
+  padding-top: 3px;
+  padding-bottom: 0px;
 }
 h1{
   text-align: left;
