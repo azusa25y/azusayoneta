@@ -78,6 +78,7 @@ h3{
   margin-left: 9%;
   margin-right: 8%;
 }
+
 /* Responsive */
 @media screen and (min-width:600px) and (max-width:959px) {
   .home-header {
@@ -175,9 +176,9 @@ h3{
 #intro{
   font-family: 'Lato', sans-serif;
   letter-spacing: 2px;
-  font-size: 15px;
-  padding-left: 1%;
-  padding-right: 5%;
+  font-size: 17px;
+  padding-left: 2%;
+  padding-right: 6%;
   padding-top: 10px;
   display:inline-block;
   vertical-align:top;
