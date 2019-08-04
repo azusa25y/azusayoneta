@@ -155,8 +155,7 @@ h4{
   height: 70px;
 }
 #smile{
-  padding-left: 3px;
-  height: 17px;
+  display: none;
 }
 .text {
   font-size: 16px;
