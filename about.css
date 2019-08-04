@@ -56,7 +56,7 @@ body, html {
 }
 #logo{
   padding-left: 3%;
-  padding-top: 25px;
+  padding-top: 15px;
   height:88px;
 }
 
@@ -112,7 +112,7 @@ h3{
 }
 #logo{
   margin-left: 3%;
-  margin-top: -5px;
+  margin-top: -7px;
   padding-left: 0;
   height: 85px;
 }
@@ -162,7 +162,7 @@ h3{
 }
 #logo{
   margin-left: 3%;
-  margin-top: -5px;
+  margin-top: -7px;
   padding-left: 3px;
   height: 70px;
 }
