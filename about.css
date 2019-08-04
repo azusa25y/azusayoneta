@@ -13,6 +13,11 @@ body, html {
   position: relative;
 }
 /* TOP MENUS & SNS ICONS */
+.home-nav{
+  background-color: white;
+  width: 100%;
+
+}
 .home-header {
   display: table;
   width: 100%;
