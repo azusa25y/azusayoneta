@@ -1,5 +1,5 @@
 body, html {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-decoration:none;
   color: white;
 }
@@ -9,8 +9,9 @@ body, html {
   font-size: 14px;
   background: #dedede;
   letter-spacing: 1px;
-  font-family: Archer,Georgia,serif;
+  font-family: Raleway,Georgia,serif;
   position: relative;
+  font-weight: bold;
 }
 /* TOP MENUS & SNS ICONS */
 .home-nav{
@@ -38,8 +39,9 @@ body, html {
 .menu a{
   color: black;
   font-size: 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-decoration:none;
+  font-weight: bold;
 }
 .menu a:hover{
   border-bottom: 2px solid fuchsia;
@@ -48,7 +50,7 @@ body, html {
 .about a{
   color: fuchsia;
   font-size: 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   border-bottom: 2px solid fuchsia;
   padding-bottom: 5px;
 }
@@ -63,17 +65,19 @@ h1{
   text-align: center;
   padding-top: 8%;
   font-size: 60px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
+  font-weight: bold;
 }
 h3{
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2px;
   font-size: 24px;
   padding-top: 0px;
   margin-top: 0px;
   padding-left: 1%;
+  font-weight: bold;
 }
 #hello{
   margin-left: 9%;
@@ -95,12 +99,12 @@ h1{
   text-align: left;
   padding-top: 12%;
   font-size: 38px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
 }
 h3{
   text-align: left;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2px;
   font-size: 15px;
   padding-top: 0px;
@@ -116,7 +120,7 @@ h3{
 height:65px;
 }
 #intro{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2px;
   font-size: 14px;
   padding-left: 1%;
@@ -145,12 +149,12 @@ h1{
   text-align: left;
   padding-top: 12%;
   font-size: 28px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
 }
 h3{
   text-align: left;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2px;
   font-size: 14px;
   padding-top: 0px;
@@ -166,7 +170,7 @@ h3{
   height:50px;
 }
 #intro{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2px;
   font-size: 11px;
   padding-right: 5%;
@@ -183,7 +187,7 @@ h3{
 
 /*ABOUT ME - IMAGES & CONTENTS*/
 #intro{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 2px;
   font-size: 17px;
   padding-left: 2%;
@@ -191,6 +195,7 @@ h3{
   padding-top: 10px;
   display:inline-block;
   vertical-align:top;
+  font-weight: bold;
 }
 #about{
   padding-bottom: 150px;
@@ -245,7 +250,7 @@ footer p{
   padding-left: 10px;
   margin-top: 3%;
   margin-left:7%;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 #footer-sns{
   text-align:center;
