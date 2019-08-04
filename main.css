@@ -49,6 +49,10 @@ body, html {
   padding-left: 5px;
   height: 30px;
 }
+#peace{
+  padding-right: 5px;
+  height: 30px;
+}
 .myworks a{
   color: fuchsia;
   font-size: 15px;
@@ -127,6 +131,10 @@ h4{
   padding-left: 3px;
   height: 22px;
 }
+#peace{
+  padding-right: 3px;
+  height: 22px;
+}
 #logo{
   margin-left: 3%;
   margin-top: -5px;
@@ -173,6 +181,10 @@ h4{
 #smile{
   padding-left: 3px;
   height: 17px; 
+}
+#peace{
+  padding-right: 3px;
+  height: 17px;
 }
 .text {
   font-size: 16px;
