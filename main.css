@@ -24,7 +24,7 @@ body, html {
     letter-spacing: 1px;
     font-family: Raleway,Georgia,serif;
     position: relative;
-    margin-top: -13px;
+    margin-top: -14px;
 }
 .menu{
   float: right;
@@ -146,6 +146,9 @@ h4{
 .text {
   font-size: 19px;
 	}
+body, html{
+  margin-top: -12px;
+	} 
 }
 @media screen and (max-width:599px) { 
 .home-header {
@@ -191,6 +194,9 @@ h4{
 .text {
   font-size: 16px;
 }
+body, html{
+  margin-top: -11px;
+	} 
 }
 
 .container{
