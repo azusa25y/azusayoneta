@@ -68,7 +68,7 @@ body, html {
 /*ABOUT ME - TITLE*/
 h1{
   text-align: center;
-  padding-top: 1%;
+  padding-top: 4%;
   font-size: 60px;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
@@ -108,7 +108,7 @@ h3{
 }
 h1{
   text-align: left;
-  padding-top: 2%;
+  padding-top: 4%;
   font-size: 38px;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
@@ -165,7 +165,7 @@ height:65px;
 }
 h1{
   text-align: left;
-  padding-top: 2%;
+  padding-top: 4%;
   font-size: 28px;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
