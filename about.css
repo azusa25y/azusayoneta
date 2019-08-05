@@ -60,8 +60,8 @@ body, html {
   height:88px;
 }
 #profile-pic{
- 
-  height: 200px;
+  text-align: center;
+  height: 400px;
   width: auto;
 }
 /*ABOUT ME - TITLE*/
@@ -98,6 +98,11 @@ h3{
 .home-nav{
   padding-top: 12px;
   padding-bottom: 10px;
+}
+#profile-pic{
+  text-align: center;
+  height: 300px;
+  width: auto;
 }
 h1{
   text-align: left;
@@ -148,6 +153,11 @@ height:65px;
 .home-nav{
   padding-top: 3px;
   padding-bottom: 10px;
+}
+#profile-pic{
+  text-align: center;
+  height: 250px;
+  width: auto;
 }
 h1{
   text-align: left;
