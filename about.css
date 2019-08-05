@@ -62,8 +62,8 @@ body, html {
 #profile-pic{
   padding-top: 8%;
   text-align: center;
-  height: 500px;
-  width: auto;
+  height: 30%;
+  width: 30%;
 }
 /*ABOUT ME - TITLE*/
 h1{
@@ -137,7 +137,7 @@ height:65px;
   padding-left: 1%;
   padding-right: 5%;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
   display:inline-block;
   vertical-align:top;
 }
@@ -193,7 +193,7 @@ h3{
   font-size: 11px;
   padding-right: 5%;
   padding-top: 10px;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
   display:inline-block;
   vertical-align:top;
 }
@@ -212,6 +212,7 @@ h3{
   padding-left: 2%;
   padding-right: 6%;
   padding-top: 10px;
+  padding-bottom: 50px;
   display:inline-block;
   vertical-align:top;
   font-weight: bold;
