@@ -60,14 +60,15 @@ body, html {
   height:88px;
 }
 #profile-pic{
+  padding-top: 8%;
   text-align: center;
-  height: 400px;
+  height: 500px;
   width: auto;
 }
 /*ABOUT ME - TITLE*/
 h1{
   text-align: center;
-  padding-top: 8%;
+  padding-top: 1%;
   font-size: 60px;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
@@ -101,12 +102,13 @@ h3{
 }
 #profile-pic{
   text-align: center;
-  height: 300px;
+  padding-top: 12%;
+  height: 400px;
   width: auto;
 }
 h1{
   text-align: left;
-  padding-top: 12%;
+  padding-top: 2%;
   font-size: 38px;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
@@ -135,6 +137,7 @@ height:65px;
   padding-left: 1%;
   padding-right: 5%;
   padding-top: 10px;
+  padding-bottom: 10px;
   display:inline-block;
   vertical-align:top;
 }
@@ -156,12 +159,13 @@ height:65px;
 }
 #profile-pic{
   text-align: center;
-  height: 250px;
+  height: 230px;
   width: auto;
+  padding-top: 12%;
 }
 h1{
   text-align: left;
-  padding-top: 12%;
+  padding-top: 2%;
   font-size: 28px;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 4px;
@@ -189,6 +193,7 @@ h3{
   font-size: 11px;
   padding-right: 5%;
   padding-top: 10px;
+  padding-bottom: 15px;
   display:inline-block;
   vertical-align:top;
 }
