@@ -59,7 +59,10 @@ body, html {
   padding-top: 15px;
   height:88px;
 }
-
+#profile-pic{
+  text-align: center;
+  height: 200px;
+}
 /*ABOUT ME - TITLE*/
 h1{
   text-align: center;
