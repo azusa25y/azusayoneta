@@ -60,8 +60,9 @@ body, html {
   height:88px;
 }
 #profile-pic{
-  text-align: center;
+ 
   height: 200px;
+  width: auto;
 }
 /*ABOUT ME - TITLE*/
 h1{
