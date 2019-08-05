@@ -147,7 +147,7 @@ h4{
   font-size: 19px;
 	}
 body, html{
-  margin-top: -12px;
+  margin-top: -10px;
 	} 
 }
 @media screen and (max-width:599px) { 
@@ -195,7 +195,7 @@ h4{
   font-size: 16px;
 }
 body, html{
-  margin-top: -11px;
+  margin-top: -8px;
 	} 
 }
 
