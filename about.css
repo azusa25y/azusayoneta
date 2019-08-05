@@ -103,6 +103,8 @@ h3{
 #profile-pic{
   text-align: center;
   padding-top: 12%;
+  height: 50%;
+  width: 50%;
 }
 h1{
   text-align: left;
@@ -158,6 +160,8 @@ height:65px;
 #profile-pic{
   text-align: center;
   padding-top: 12%;
+  height: 65%;
+  width: 65%;
 }
 h1{
   text-align: left;
